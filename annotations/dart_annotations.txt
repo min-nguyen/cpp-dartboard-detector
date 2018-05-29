@@ -1,0 +1,16 @@
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart0.jpg 1 422 2 200 215
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart1.jpg 1 172 107 245 246
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart10.jpg 3 81 83 117 142 576 119 69 102 914 136 41 85
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart11.jpg 1 165 88 79 86
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart12.jpg 1 150 56 76 179
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart13.jpg 1 252 103 165 166
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart14.jpg 2 100 85 168 162 970 72 159 165
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart15.jpg 1 119 29 188 184
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart2.jpg 1 91 85 112 112
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart3.jpg 1 312 131 89 103
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart4.jpg 1 153 75 235 240
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart5.jpg 1 431 138 105 111
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart6.jpg 1 203 107 79 80
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart7.jpg 1 230 156 172 179
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart8.jpg 1 831 203 144 154
+/Users/Charana/CS Documents/Programming/C++/Computer-Vision/CW1/images/dart9.jpg 1 156 18 310 298

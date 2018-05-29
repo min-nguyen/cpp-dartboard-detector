@@ -1,0 +1,12 @@
+Simply makefile from the src directory
+
+./main <image_path> <detector_type>
+	- Detector is either 'line' for intersection detector
+						'colseg' for colour segmentation detctor
+	e.g ./main  ../images/dart4.jpg  line
+	    ./main  ../images/dart9.jpg  colseg
+
+Stages & Final image will appear on runtime.
+Detected.jpg will be stored in the src directory.
+
+Have fun!
